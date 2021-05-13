@@ -1,2 +1,62 @@
 # 955.Remote
-955 可远程办公企业名单，remote working &amp; work-life balance
+后疫情时代，越来越多的公司开始接纳**远程办公**的工作方式
+
+- **本项目**
+
+在**收录可支持远程办公企业名单**同时，也会收集各大网站上的招聘信息，祝有想要远程办公的同学，早日拿到心仪的Offer
+```
+收录 正规且评价良好企业 的工作机会，暂不提供外包及创业合作项目分享
+```
+
+- **对员工而言**
+
+可以使工作不受地域的限制，减少不必要的通勤时间
+
+可以逃离一线城市的高房价，有更多的时间陪伴家人、提升技术
+
+- **对公司而言**
+
+能够节省办公地点租用的费用
+
+可以在全国范围内招募优秀且志同道合的员工
+
+# 数据来源
+- 各大招聘网站，[Boss直聘](https://www.zhipin.com/?sid=sem_pz_bdpc_dasou_title)、
+[智联招聘](https://www.zhaopin.com/)、
+[猎聘](https://wow.liepin.com/)、
+[拉钩](https://www.lagou.com/)
+- 资讯网站及论坛，[V2EX](https://www.v2ex.com/)、
+[电鸭社区](https://eleduck.com/categories/5/tags/0-0-19)、
+[Ruby](https://ruby-china.org/jobs)
+- 贡献者贡献
+
+# 贡献指南
+- 如您了解远程办公的公司及岗位，欢迎您为本项目[提交Issue](https://github.com/xiaochaohit/955.Remote/issues)，本项目将保持每周更新
+- 如您所在的公司，正在招聘远程办公的岗位（包括但不限于软件开发、算法开发、产品经理、项目经理、设计人员），欢迎您与本人取得联系([remoteworking@163.com](remoteworking@163.com))，一经核实将第一时间更新到本项目
+
+# 企业名单
+- 中大规模（500人以上）
+
+|Base城市|企业名称|岗位|资讯|工作现状|
+|----|----|----|----|----|
+|厦门/杭州|RingCentral|[JD](https://m.zhipin.com/mpa/html/weijd/weijd-job/171d5e7fca20c9001nd62tW8GVVW?date8=20210514&sid=tosee_jd_984e876d1604462a1XR909u0GVI~)|[资讯](https://www.zhihu.com/question/342644820/answer/1514296990)|可长期远程|
+|北京/上海/苏州|MicroSoft|[JD](https://www.microsoft.com/zh-cn/ard/recruitment/)|[资讯](https://mp.weixin.qq.com/s/kefXtCEN2Qr3gr-PPJAtTQ)|可长期远程|
+- 中小规模（100-500人）
+
+|Base城市|企业名称|岗位|资讯|工作现状|
+|----|----|----|----|----|
+|北京|TubiTV|[JD1](https://ruby-china.org/topics/41190) [JD2](https://exp.newsmth.net/topic/36d0f03a47edd58a952242f45702e985)|[资讯](http://chinateam.tubi.tv/)|可长期远程|
+|深圳|Xmind|[JD](https://ruby-china.org/topics/41096)|[资讯](https://www.xmind.cn/joinus/)|可长期远程|
+
+- 创业型（100人以下）
+
+|Base城市|企业名称|岗位|资讯|工作现状|
+|----|----|----|----|----|
+|北京/上海|UniLake Systems|[JD](https://ruby-china.org/topics/41236)|[资讯](https://vcxpe.com/market/project/90844.html)|可长期远程|
+|宁波|Brickdoc|[JD](https://ruby-china.org/topics/41138)|[资讯](http://brickdoc.com/) [Repo](https://github.com/brickdoc)|可长期远程|
+
+# 招聘信息
+|公司描述|信息来源|岗位|工作经验|薪资|工作现状|
+|----|----|----|----|----|----|
+|国际某区块链公司|[FinTech](http://www.fintechgl.com/jobs/329)|前端开发|NM.|30-50万|可长期远程|
+|国际某区块链公司|[FinTech](http://www.fintechgl.com/jobs/340)|Data Analyst|3-5年|NM.|可长期远程|
