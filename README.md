@@ -3,10 +3,12 @@
 
 - **本项目**
 
-在**收录可支持远程办公企业名单**同时，也会收集各大网站上的招聘信息，祝有想要远程办公的同学，早日拿到心仪的Offer
-```
-收录 正规且评价良好企业 的工作机会，暂不提供外包及创业合作项目分享
-```
+持续收录**可支持远程办公的优秀企业名单**
+
+筛选各大招聘网站及社区，**定期更新远程工作机会**
+
+收集远程工作相关**资讯文章**
+> 因精力有限，将尽量保持每周更新，欢迎加入本项目成为贡献者。祝想要远程办公的同学，早日拿到心仪的Offer
 
 - **对员工而言**
 
@@ -37,26 +39,23 @@
 # 企业名单
 - 中大规模（500人以上）
 
-|Base城市|企业名称|岗位|资讯|工作现状|
+|Base城市|企业名称|行业|岗位|资讯|
 |----|----|----|----|----|
-|厦门/杭州|RingCentral|[JD](https://m.zhipin.com/mpa/html/weijd/weijd-job/171d5e7fca20c9001nd62tW8GVVW?date8=20210514&sid=tosee_jd_984e876d1604462a1XR909u0GVI~)|[资讯](https://www.zhihu.com/question/342644820/answer/1514296990)|可长期远程|
-|北京/上海/苏州|MicroSoft|[JD](https://www.microsoft.com/zh-cn/ard/recruitment/)|[资讯](https://mp.weixin.qq.com/s/kefXtCEN2Qr3gr-PPJAtTQ)|可长期远程|
+|厦门/杭州|RingCentral|通信|[JD](https://m.zhipin.com/mpa/html/weijd/weijd-job/171d5e7fca20c9001nd62tW8GVVW?date8=20210514&sid=tosee_jd_984e876d1604462a1XR909u0GVI~)|[资讯](https://www.zhihu.com/question/342644820/answer/1514296990)|
+|北京/上海/苏州|MicroSoft|办公软件|[JD](https://www.microsoft.com/zh-cn/ard/recruitment/)|[资讯](https://mp.weixin.qq.com/s/kefXtCEN2Qr3gr-PPJAtTQ)|
 - 中小规模（100-500人）
 
-|Base城市|企业名称|岗位|资讯|工作现状|
+|Base城市|企业名称|行业|岗位|资讯|
 |----|----|----|----|----|
-|北京|TubiTV|[JD1](https://ruby-china.org/topics/41190) [JD2](https://exp.newsmth.net/topic/36d0f03a47edd58a952242f45702e985)|[资讯](http://chinateam.tubi.tv/)|可长期远程|
-|深圳|Xmind|[JD](https://ruby-china.org/topics/41096)|[资讯](https://www.xmind.cn/joinus/)|可长期远程|
+|北京|TubiTV|视频软件|[JD1](https://ruby-china.org/topics/41190) [JD2](https://exp.newsmth.net/topic/36d0f03a47edd58a952242f45702e985)|[资讯](http://chinateam.tubi.tv/)|
+|深圳|Xmind|办公软件|[JD](https://ruby-china.org/topics/41096)|[资讯](https://www.xmind.cn/joinus/)|
 
 - 创业型（100人以下）
 
-|Base城市|企业名称|岗位|资讯|工作现状|
+|Base城市|企业名称|行业|岗位|资讯|
 |----|----|----|----|----|
-|北京/上海|UniLake Systems|[JD](https://ruby-china.org/topics/41236)|[资讯](https://vcxpe.com/market/project/90844.html)|可长期远程|
-|宁波|Brickdoc|[JD](https://ruby-china.org/topics/41138)|[资讯](http://brickdoc.com/) [Repo](https://github.com/brickdoc)|可长期远程|
+|北京/上海|UniLake Systems|SAAS|[JD](https://ruby-china.org/topics/41236)|[资讯](https://vcxpe.com/market/project/90844.html)|
+|上海|[猎币](https://liebi.com/)|区块链|[JD](https://yuancheng.work)|[资讯](https://liebi.com/)
 
 # 招聘信息
-|公司描述|信息来源|岗位|工作经验|薪资|工作现状|
-|----|----|----|----|----|----|
-|国际某区块链公司|[FinTech](http://www.fintechgl.com/jobs/329)|前端开发|NM.|30-50万|可长期远程|
-|国际某区块链公司|[FinTech](http://www.fintechgl.com/jobs/340)|Data Analyst|3-5年|NM.|可长期远程|
+- [2021-05-16](job/2021-05-16.md)
