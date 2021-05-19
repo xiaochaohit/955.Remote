@@ -43,6 +43,7 @@
 |----|----|----|----|----|
 |厦门/杭州|RingCentral|通信|[JD](https://m.zhipin.com/mpa/html/weijd/weijd-job/171d5e7fca20c9001nd62tW8GVVW?date8=20210514&sid=tosee_jd_984e876d1604462a1XR909u0GVI~)|[资讯](https://www.zhihu.com/question/342644820/answer/1514296990)|
 |北京/上海/苏州|MicroSoft|办公软件|[JD](https://www.microsoft.com/zh-cn/ard/recruitment/)|[资讯](https://mp.weixin.qq.com/s/kefXtCEN2Qr3gr-PPJAtTQ)|
+|深圳|crypto.com|区块链|[JD](https://ruby-china.org/topics/41281)|[资讯](https://crypto.com/about)|
 - 中小规模（100-500人）
 
 |Base城市|企业名称|行业|岗位|资讯|
@@ -59,3 +60,4 @@
 
 # 招聘信息
 - [2021-05-16](job/2021-05-16.md)
+- [2021-05-19](job/2021-05-19.md)
