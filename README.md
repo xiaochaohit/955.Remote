@@ -50,14 +50,17 @@
 |----|----|----|----|----|
 |北京|TubiTV|视频软件|[JD1](https://ruby-china.org/topics/41190) [JD2](https://exp.newsmth.net/topic/36d0f03a47edd58a952242f45702e985)|[资讯](http://chinateam.tubi.tv/)|
 |深圳|Xmind|办公软件|[JD](https://ruby-china.org/topics/41096)|[资讯](https://www.xmind.cn/joinus/)|
+|北京、长沙|墨刀|办公软件|[JD](https://www.v2ex.com/t/769670#reply18)|[资讯](https://modao.cc/)|
 
 - 创业型（100人以下）
 
 |Base城市|企业名称|行业|岗位|资讯|
 |----|----|----|----|----|
 |北京/上海|UniLake Systems|SAAS|[JD](https://ruby-china.org/topics/41236)|[资讯](https://vcxpe.com/market/project/90844.html)|
-|上海|[猎币](https://liebi.com/)|区块链|[JD](https://yuancheng.work)|[资讯](https://liebi.com/)
+|上海|[猎币](https://liebi.com/)|区块链|[JD](https://yuancheng.work)|[资讯](https://liebi.com/)|
+|北京|[燧炻创新](https://fydeos.com/)|操作系统|[JD](https://www.v2ex.com/t/777483#reply6)|[资讯](https://fydeos.com/)|
+|北京|秘猿科技|区块链|[JD](https://app.lagou.com/share/position.html?userId=8978734&positionId=8658218&fromUser=C&sharesource=app_share_jd&sharefrom=android&sharetype=copy)|[资讯](https://www.cryptape.com/)|
 
 # 招聘信息
 - [2021-05-16](job/2021-05-16.md)
-- [2021-05-19](job/2021-05-19.md)
+- [2021-05-25](job/2021-05-25.md)
