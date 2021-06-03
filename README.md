@@ -51,6 +51,7 @@
 |北京|TubiTV|视频软件|[JD1](https://ruby-china.org/topics/41190) [JD2](https://exp.newsmth.net/topic/36d0f03a47edd58a952242f45702e985)|[资讯](http://chinateam.tubi.tv/)|
 |深圳|Xmind|办公软件|[JD](https://ruby-china.org/topics/41096)|[资讯](https://www.xmind.cn/joinus/)|
 |北京、长沙|墨刀|办公软件|[JD](https://www.v2ex.com/t/769670#reply18)|[资讯](https://modao.cc/)|
+|北京/天津/河北等|Gitlab|SAAS|[JD](https://www.v2ex.com/t/780897#reply11)|[资讯](https://about.gitlab.com/)|
 
 - 创业型（100人以下）
 
@@ -64,3 +65,4 @@
 # 招聘信息
 - [2021-05-16](job/2021-05-16.md)
 - [2021-05-25](job/2021-05-25.md)
+- [2021-06-03](job/2021-06-03.md)
